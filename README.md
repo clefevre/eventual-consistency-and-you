@@ -1,4 +1,4 @@
-# Eventual Consistency and you! A.K.A. How Mold-E Event Consumption works!
+# Eventual Consistency And You! A.K.A. How Event Consumption Can Yield The Same Answer Every Time!
 
 ## Assumed Knowledge
 This article assumes you're aware of event driven applications that consume events from a Message Broker ( Memphis, Apache Kafka/ActiveMq, RabbitMQ etc. ).
